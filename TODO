@@ -1,0 +1,4 @@
+# -*- mode: org; -*-
+* TODO some kind of internal db -> record mapping?
+* TODO some kind of db editor; introspects tables, etc.
+** TODO foreign key relationships?
